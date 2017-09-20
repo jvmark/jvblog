@@ -1,10 +1,10 @@
 {
-  "FirstLine": "第一行文本",
-  "SecondLine": "第二行文本",
+  "FirstLine": "马克",
+  "SecondLine": "jvmark",
   "PhotoPath": "/images/zhr.jpg",
-  "ThirdLine": "第三行文本",
-  "Profile": "个人简介",
-  "Wechat": "微信号",
+  "ThirdLine": "java开发工程师",
+  "Profile": "",
+  "Wechat": "markoms",
   "QrcodePath": "",
-  "Email": "Email地址"
+  "Email": "750914551@qq.com"
 }
